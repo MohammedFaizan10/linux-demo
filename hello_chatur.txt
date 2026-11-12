@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "chatur : Hi everyone !"
+echo "chatur : balatkar balatkar"
+echo "rancho : hey chatur "
+echo "chatur : haa bol rancho"
+mkdir -p rancho
+touch fahranitrate.txt
+

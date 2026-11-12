@@ -1,0 +1,7 @@
+Student :  Faizan
+23
+4
+59
+Total marks : 86
+Average : 28
+FAILED
