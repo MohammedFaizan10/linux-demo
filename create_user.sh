@@ -3,6 +3,7 @@
 <<msg
 
 	This shell script for Creating user
+	Added To github
 
 msg
 
